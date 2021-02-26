@@ -1,0 +1,17 @@
+#galleryContainer {
+  height: 100vh;
+}
+#galleryJumbo {
+  margin-top: 5vh;
+  background-color: #834F52;
+}
+#content {
+  overflow: auto;
+}
+.galleryImage {
+  margin: 1vw;
+}
+.video {
+  justify-content: center;
+  margin: 5vh;
+}

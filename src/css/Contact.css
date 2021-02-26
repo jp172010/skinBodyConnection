@@ -1,0 +1,9 @@
+#contactContainer{
+    height:100vh;
+}
+#contactInfo{
+    background-color: #834F52;
+    height:60vh;
+    margin-top: 20vh;
+    padding-top: 15vh;
+}
